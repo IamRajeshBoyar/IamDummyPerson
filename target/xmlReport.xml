@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="0.201">
+    <testcase classname="example of medical and engineer college" name="medical college" time="0.055">
+        <system-out><![CDATA[Given student completed 10th standard.......................................passed
+Given student completed 12th standard.......................................passed
+Given student finds the best medical college................................passed
+When student enrolls himself in the medical college.........................passed
+Then student should be selected to medical college..........................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="example of medical and engineer college" name="Enginering college" time="0.004">
+        <system-out><![CDATA[Given student completed 10th standard.......................................passed
+Given student completed 12th standard.......................................passed
+Given student finds the best engineering college............................passed
+When student enrolls himself in the engineering college.....................passed
+Then student should be selected to engineering college......................passed
+]]></system-out>
+    </testcase>
+</testsuite>
